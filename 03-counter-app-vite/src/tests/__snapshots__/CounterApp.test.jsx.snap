@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba de componente CounterApp hacer match con snap 1`] = `
+<div>
+  <div
+    data-testid="test-counter"
+  >
+    <h1>
+      Cookie Clicker
+    </h1>
+    <h2>
+       
+      10
+       
+    </h2>
+    <button>
+       +1 
+    </button>
+    <button>
+       -1 
+    </button>
+    <button>
+       Reset 
+    </button>
+  </div>
+</div>
+`;
